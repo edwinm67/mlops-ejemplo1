@@ -75,7 +75,7 @@ NUBE:
 
     * Cloud Build
     * Cloud Run
-    * Cloud Storage (buckets)
+    * Artifact Registry
     * IAM & Admin (service account con permisos: Storage Object Viewer & Storage Object Admin)
 
 
